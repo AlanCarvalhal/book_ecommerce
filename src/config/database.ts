@@ -9,8 +9,12 @@ export const connectDB = async () => {
     console.log('MongoDB conectado');
 
     await seedDatabase();
-  } catch (error: any) {
-    console.error('Erro de conexão no MongoDb:', error.message);
+  } catch (error: unknown) {
+    if (error instanceof Error) {
+      console.error('Erro de conexão no MongoDb:', error.message);
+    } else {
+      console.error('Erro de conexão no MongoDb:', error);
+    }
     process.exit(1);
   }
 };
