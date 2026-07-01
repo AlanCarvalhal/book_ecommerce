@@ -12,7 +12,6 @@ export class BookRepository {
     if (params.sortBy) {
       sortObj[params.sortBy] = params.sortOrder ?? 'asc';
     }
-    console.log(sortObj);
 
     const skip = (params.page - 1) * params.limit;
 
