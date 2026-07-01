@@ -1,4 +1,5 @@
 import express, { Request, Response } from 'express';
+import { connectDB } from './config/database';
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -10,6 +11,12 @@ app.get('/', (req: Request, res: Response) => {
   res.json({ message: 'Hello World!' });
 });
 
-app.listen(PORT, () => {
-  console.log(`Servidor em execucao em http://localhost:${PORT}`);
-});
+const startServer = async () => {
+  await connectDB();
+
+  app.listen(PORT, () => {
+    console.log(`Servidor em execução em http://localhost:${PORT}`);
+  });
+};
+
+startServer();
