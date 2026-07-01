@@ -1,6 +1,6 @@
 [
   {
-    "id": "3ecc868c-1ca9-4468-a567-5c810fd16e99",
+    "_id": "3ecc868c-1ca9-4468-a567-5c810fd16e99",
     "titulo": "Clean Code",
     "autor": "Robert C. Martin",
     "isbn": "9780132350884",
@@ -13,7 +13,7 @@
     "dataCadastro": "2024-12-04T01:03:20.148411"
   },
   {
-    "id": "bf58ee7f-de44-4575-bfbb-1201a3d0161c",
+    "_id": "bf58ee7f-de44-4575-bfbb-1201a3d0161c",
     "titulo": "Introduction to Algorithms",
     "autor": "Thomas H. Cormen",
     "isbn": "9780262046305",
@@ -26,7 +26,7 @@
     "dataCadastro": "2026-04-17T01:03:20.148591"
   },
   {
-    "id": "1dc20fe6-725d-4f11-927c-8a7c02c7163f",
+    "_id": "1dc20fe6-725d-4f11-927c-8a7c02c7163f",
     "titulo": "Design Patterns",
     "autor": "Erich Gamma",
     "isbn": "9780201633610",
@@ -39,7 +39,7 @@
     "dataCadastro": "2024-08-01T01:03:20.148717"
   },
   {
-    "id": "52e0aeab-4914-4a67-9ab3-a904a79d0b0e",
+    "_id": "52e0aeab-4914-4a67-9ab3-a904a79d0b0e",
     "titulo": "Computer Networks",
     "autor": "Andrew S. Tanenbaum",
     "isbn": "9780132126953",
@@ -52,7 +52,7 @@
     "dataCadastro": "2025-10-07T01:03:20.148846"
   },
   {
-    "id": "7d85b0f9-3445-49ff-85e8-2c7f203840d9",
+    "_id": "7d85b0f9-3445-49ff-85e8-2c7f203840d9",
     "titulo": "Operating System Concepts",
     "autor": "Abraham Silberschatz",
     "isbn": "9781119800361",
@@ -65,7 +65,7 @@
     "dataCadastro": "2025-01-28T01:03:20.148886"
   },
   {
-    "id": "c49d7cf4-b004-456d-a005-e3139f589297",
+    "_id": "c49d7cf4-b004-456d-a005-e3139f589297",
     "titulo": "Database System Concepts",
     "autor": "Abraham Silberschatz",
     "isbn": "9781260084504",
@@ -78,7 +78,7 @@
     "dataCadastro": "2024-12-15T01:03:20.148945"
   },
   {
-    "id": "9cb0eb34-c696-4403-8d25-a011796212ac",
+    "_id": "9cb0eb34-c696-4403-8d25-a011796212ac",
     "titulo": "Artificial Intelligence: A Modern Approach",
     "autor": "Stuart Russell",
     "isbn": "9780134610993",
@@ -91,7 +91,7 @@
     "dataCadastro": "2026-01-16T01:03:20.149033"
   },
   {
-    "id": "e6a271a9-cd28-4c35-bd88-1852596955bb",
+    "_id": "e6a271a9-cd28-4c35-bd88-1852596955bb",
     "titulo": "Computer Organization and Design",
     "autor": "David Patterson",
     "isbn": "9780128203316",
@@ -104,7 +104,7 @@
     "dataCadastro": "2025-11-12T01:03:20.149113"
   },
   {
-    "id": "b35de8c8-8a38-47a9-8a66-1682189a52d8",
+    "_id": "b35de8c8-8a38-47a9-8a66-1682189a52d8",
     "titulo": "The Pragmatic Programmer",
     "autor": "Andrew Hunt",
     "isbn": "9780135957059",
@@ -117,7 +117,7 @@
     "dataCadastro": "2026-04-06T01:03:20.149244"
   },
   {
-    "id": "9b704a0a-558e-42f2-a5c3-51c33a2232ed",
+    "_id": "9b704a0a-558e-42f2-a5c3-51c33a2232ed",
     "titulo": "Refactoring",
     "autor": "Martin Fowler",
     "isbn": "9780134757599",
@@ -130,7 +130,7 @@
     "dataCadastro": "2026-03-18T01:03:20.149355"
   },
   {
-    "id": "e2b1b32d-7f1c-4c6d-bf5a-5a6cdbf1586a",
+    "_id": "e2b1b32d-7f1c-4c6d-bf5a-5a6cdbf1586a",
     "titulo": "Clean Code Vol. 1",
     "autor": "Robert C. Martin",
     "isbn": "9780000000010",
@@ -143,7 +143,7 @@
     "dataCadastro": "2024-10-31T01:03:20.149622"
   },
   {
-    "id": "dab49561-1632-4a03-ac0c-d4c5ef79f55a",
+    "_id": "dab49561-1632-4a03-ac0c-d4c5ef79f55a",
     "titulo": "Introduction to Algorithms Vol. 2",
     "autor": "Thomas H. Cormen",
     "isbn": "9780000000011",
@@ -156,7 +156,7 @@
     "dataCadastro": "2026-05-12T01:03:20.149957"
   },
   {
-    "id": "75b4e9f0-dbbd-4871-bb96-25f0bb4afeaf",
+    "_id": "75b4e9f0-dbbd-4871-bb96-25f0bb4afeaf",
     "titulo": "Design Patterns Vol. 3",
     "autor": "Erich Gamma",
     "isbn": "9780000000012",
@@ -169,7 +169,7 @@
     "dataCadastro": "2025-01-16T01:03:20.149988"
   },
   {
-    "id": "0b4f017b-ab44-4269-948e-9f91d1bf461b",
+    "_id": "0b4f017b-ab44-4269-948e-9f91d1bf461b",
     "titulo": "Computer Networks Vol. 4",
     "autor": "Andrew S. Tanenbaum",
     "isbn": "9780000000013",
@@ -182,7 +182,7 @@
     "dataCadastro": "2026-04-04T01:03:20.150003"
   },
   {
-    "id": "23a4b91c-bca4-423f-84f5-41d5402d6a04",
+    "_id": "23a4b91c-bca4-423f-84f5-41d5402d6a04",
     "titulo": "Operating System Concepts Vol. 5",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000014",
@@ -195,7 +195,7 @@
     "dataCadastro": "2026-03-24T01:03:20.150033"
   },
   {
-    "id": "648fa213-a28b-4ebf-9da0-23692fe26486",
+    "_id": "648fa213-a28b-4ebf-9da0-23692fe26486",
     "titulo": "Database System Concepts Vol. 6",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000015",
@@ -208,7 +208,7 @@
     "dataCadastro": "2026-06-12T01:03:20.150047"
   },
   {
-    "id": "c3fc793c-7e1b-46ba-848b-2c467d868a58",
+    "_id": "c3fc793c-7e1b-46ba-848b-2c467d868a58",
     "titulo": "Artificial Intelligence: A Modern Approach Vol. 7",
     "autor": "Stuart Russell",
     "isbn": "9780000000016",
@@ -221,7 +221,7 @@
     "dataCadastro": "2025-01-28T01:03:20.150059"
   },
   {
-    "id": "d0a710fc-0dca-48ca-b87e-126d3598b5df",
+    "_id": "d0a710fc-0dca-48ca-b87e-126d3598b5df",
     "titulo": "Computer Organization and Design Vol. 8",
     "autor": "David Patterson",
     "isbn": "9780000000017",
@@ -234,7 +234,7 @@
     "dataCadastro": "2025-02-26T01:03:20.150072"
   },
   {
-    "id": "f62a0c4e-f41e-4114-9768-f1ab2d49c003",
+    "_id": "f62a0c4e-f41e-4114-9768-f1ab2d49c003",
     "titulo": "The Pragmatic Programmer Vol. 9",
     "autor": "Andrew Hunt",
     "isbn": "9780000000018",
@@ -247,7 +247,7 @@
     "dataCadastro": "2026-02-03T01:03:20.150087"
   },
   {
-    "id": "399e6d8d-9f89-4540-9136-7d60bba5ec3c",
+    "_id": "399e6d8d-9f89-4540-9136-7d60bba5ec3c",
     "titulo": "Refactoring Vol. 10",
     "autor": "Martin Fowler",
     "isbn": "9780000000019",
@@ -260,7 +260,7 @@
     "dataCadastro": "2025-07-20T01:03:20.150099"
   },
   {
-    "id": "00057156-9d3e-46b9-b9a7-49d8835a7f3c",
+    "_id": "00057156-9d3e-46b9-b9a7-49d8835a7f3c",
     "titulo": "Clean Code Vol. 11",
     "autor": "Robert C. Martin",
     "isbn": "9780000000020",
@@ -273,7 +273,7 @@
     "dataCadastro": "2025-10-21T01:03:20.150111"
   },
   {
-    "id": "31efdb07-4048-45cf-adf8-13d65ab58a3f",
+    "_id": "31efdb07-4048-45cf-adf8-13d65ab58a3f",
     "titulo": "Introduction to Algorithms Vol. 12",
     "autor": "Thomas H. Cormen",
     "isbn": "9780000000021",
@@ -286,7 +286,7 @@
     "dataCadastro": "2024-10-12T01:03:20.150123"
   },
   {
-    "id": "63af8ff8-550d-4d0c-83a2-a3ec37b636f0",
+    "_id": "63af8ff8-550d-4d0c-83a2-a3ec37b636f0",
     "titulo": "Design Patterns Vol. 13",
     "autor": "Erich Gamma",
     "isbn": "9780000000022",
@@ -299,7 +299,7 @@
     "dataCadastro": "2025-05-19T01:03:20.150135"
   },
   {
-    "id": "a838398e-ad66-4983-a717-df1cca7a29c7",
+    "_id": "a838398e-ad66-4983-a717-df1cca7a29c7",
     "titulo": "Computer Networks Vol. 14",
     "autor": "Andrew S. Tanenbaum",
     "isbn": "9780000000023",
@@ -312,7 +312,7 @@
     "dataCadastro": "2025-05-24T01:03:20.150150"
   },
   {
-    "id": "c5ffe475-13f8-4a09-9f1e-8e6163a21e76",
+    "_id": "c5ffe475-13f8-4a09-9f1e-8e6163a21e76",
     "titulo": "Operating System Concepts Vol. 15",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000024",
@@ -325,7 +325,7 @@
     "dataCadastro": "2026-06-21T01:03:20.150161"
   },
   {
-    "id": "2ce0ab66-ed5c-412d-8c0e-5bcc87bf8dd1",
+    "_id": "2ce0ab66-ed5c-412d-8c0e-5bcc87bf8dd1",
     "titulo": "Database System Concepts Vol. 16",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000025",
@@ -338,7 +338,7 @@
     "dataCadastro": "2026-03-03T01:03:20.150172"
   },
   {
-    "id": "a76a78c6-018d-4d35-8c73-7271a725ea91",
+    "_id": "a76a78c6-018d-4d35-8c73-7271a725ea91",
     "titulo": "Artificial Intelligence: A Modern Approach Vol. 17",
     "autor": "Stuart Russell",
     "isbn": "9780000000026",
@@ -351,7 +351,7 @@
     "dataCadastro": "2024-08-19T01:03:20.150185"
   },
   {
-    "id": "967067fb-1223-42fd-8a8b-3864451548f9",
+    "_id": "967067fb-1223-42fd-8a8b-3864451548f9",
     "titulo": "Computer Organization and Design Vol. 18",
     "autor": "David Patterson",
     "isbn": "9780000000027",
@@ -364,7 +364,7 @@
     "dataCadastro": "2024-07-30T01:03:20.150197"
   },
   {
-    "id": "dec378a9-850f-4e01-9d65-6e1c0f1edbd6",
+    "_id": "dec378a9-850f-4e01-9d65-6e1c0f1edbd6",
     "titulo": "The Pragmatic Programmer Vol. 19",
     "autor": "Andrew Hunt",
     "isbn": "9780000000028",
@@ -377,7 +377,7 @@
     "dataCadastro": "2025-03-25T01:03:20.150208"
   },
   {
-    "id": "e8cbabde-bda9-4a72-91c9-71dda7bba696",
+    "_id": "e8cbabde-bda9-4a72-91c9-71dda7bba696",
     "titulo": "Refactoring Vol. 20",
     "autor": "Martin Fowler",
     "isbn": "9780000000029",
@@ -390,7 +390,7 @@
     "dataCadastro": "2024-08-08T01:03:20.150219"
   },
   {
-    "id": "2f6462ed-5cbf-4eed-b1df-bae19efdaad5",
+    "_id": "2f6462ed-5cbf-4eed-b1df-bae19efdaad5",
     "titulo": "Clean Code Vol. 21",
     "autor": "Robert C. Martin",
     "isbn": "9780000000030",
@@ -403,7 +403,7 @@
     "dataCadastro": "2024-09-25T01:03:20.150238"
   },
   {
-    "id": "b113240b-d6d5-4286-a53a-dcbc1f2d510d",
+    "_id": "b113240b-d6d5-4286-a53a-dcbc1f2d510d",
     "titulo": "Introduction to Algorithms Vol. 22",
     "autor": "Thomas H. Cormen",
     "isbn": "9780000000031",
@@ -416,7 +416,7 @@
     "dataCadastro": "2025-01-28T01:03:20.150250"
   },
   {
-    "id": "c9132793-8790-4374-b8f1-26f3fd2e4c50",
+    "_id": "c9132793-8790-4374-b8f1-26f3fd2e4c50",
     "titulo": "Design Patterns Vol. 23",
     "autor": "Erich Gamma",
     "isbn": "9780000000032",
@@ -429,7 +429,7 @@
     "dataCadastro": "2026-02-27T01:03:20.150265"
   },
   {
-    "id": "28945132-ee53-4668-bb0d-088329e02006",
+    "_id": "28945132-ee53-4668-bb0d-088329e02006",
     "titulo": "Computer Networks Vol. 24",
     "autor": "Andrew S. Tanenbaum",
     "isbn": "9780000000033",
@@ -442,7 +442,7 @@
     "dataCadastro": "2026-04-22T01:03:20.150280"
   },
   {
-    "id": "1070b7ff-2b0c-4539-b929-cb64a0e95bf0",
+    "_id": "1070b7ff-2b0c-4539-b929-cb64a0e95bf0",
     "titulo": "Operating System Concepts Vol. 25",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000034",
@@ -455,7 +455,7 @@
     "dataCadastro": "2025-12-04T01:03:20.150291"
   },
   {
-    "id": "9f453d94-7430-48ef-94b6-23612d4cebab",
+    "_id": "9f453d94-7430-48ef-94b6-23612d4cebab",
     "titulo": "Database System Concepts Vol. 26",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000035",
@@ -468,7 +468,7 @@
     "dataCadastro": "2025-09-09T01:03:20.150302"
   },
   {
-    "id": "7a1fb6f7-89a6-48d4-bb14-42c7302e61bd",
+    "_id": "7a1fb6f7-89a6-48d4-bb14-42c7302e61bd",
     "titulo": "Artificial Intelligence: A Modern Approach Vol. 27",
     "autor": "Stuart Russell",
     "isbn": "9780000000036",
@@ -481,7 +481,7 @@
     "dataCadastro": "2026-02-27T01:03:20.150313"
   },
   {
-    "id": "c1181ad9-a715-4e7b-a4d2-910fd24f25ba",
+    "_id": "c1181ad9-a715-4e7b-a4d2-910fd24f25ba",
     "titulo": "Computer Organization and Design Vol. 28",
     "autor": "David Patterson",
     "isbn": "9780000000037",
@@ -494,7 +494,7 @@
     "dataCadastro": "2025-08-27T01:03:20.150324"
   },
   {
-    "id": "ef408aff-aade-4ecf-94a2-accf67e1f6db",
+    "_id": "ef408aff-aade-4ecf-94a2-accf67e1f6db",
     "titulo": "The Pragmatic Programmer Vol. 29",
     "autor": "Andrew Hunt",
     "isbn": "9780000000038",
@@ -507,7 +507,7 @@
     "dataCadastro": "2024-11-10T01:03:20.150336"
   },
   {
-    "id": "fbed6657-adce-40d7-93d3-05ea530d06ed",
+    "_id": "fbed6657-adce-40d7-93d3-05ea530d06ed",
     "titulo": "Refactoring Vol. 30",
     "autor": "Martin Fowler",
     "isbn": "9780000000039",
@@ -520,7 +520,7 @@
     "dataCadastro": "2025-08-30T01:03:20.150347"
   },
   {
-    "id": "af95112f-d591-4c11-82b5-f2790aa0cefb",
+    "_id": "af95112f-d591-4c11-82b5-f2790aa0cefb",
     "titulo": "Clean Code Vol. 31",
     "autor": "Robert C. Martin",
     "isbn": "9780000000040",
@@ -533,7 +533,7 @@
     "dataCadastro": "2026-03-08T01:03:20.150358"
   },
   {
-    "id": "14ab4fca-bcb2-4dc9-a26e-c9cd252e051c",
+    "_id": "14ab4fca-bcb2-4dc9-a26e-c9cd252e051c",
     "titulo": "Introduction to Algorithms Vol. 32",
     "autor": "Thomas H. Cormen",
     "isbn": "9780000000041",
@@ -546,7 +546,7 @@
     "dataCadastro": "2025-02-25T01:03:20.150373"
   },
   {
-    "id": "5c19ad96-ad36-4107-9a6d-3b3293da32ee",
+    "_id": "5c19ad96-ad36-4107-9a6d-3b3293da32ee",
     "titulo": "Design Patterns Vol. 33",
     "autor": "Erich Gamma",
     "isbn": "9780000000042",
@@ -559,7 +559,7 @@
     "dataCadastro": "2024-11-04T01:03:20.150384"
   },
   {
-    "id": "25a136dd-6028-472a-9c8e-e986441726f5",
+    "_id": "25a136dd-6028-472a-9c8e-e986441726f5",
     "titulo": "Computer Networks Vol. 34",
     "autor": "Andrew S. Tanenbaum",
     "isbn": "9780000000043",
@@ -572,7 +572,7 @@
     "dataCadastro": "2026-06-22T01:03:20.150395"
   },
   {
-    "id": "5880e7a0-217f-4c95-afd6-89fc09db983b",
+    "_id": "5880e7a0-217f-4c95-afd6-89fc09db983b",
     "titulo": "Operating System Concepts Vol. 35",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000044",
@@ -585,7 +585,7 @@
     "dataCadastro": "2024-10-19T01:03:20.150406"
   },
   {
-    "id": "71b34432-7d0b-4342-8b3e-f94cb4843a42",
+    "_id": "71b34432-7d0b-4342-8b3e-f94cb4843a42",
     "titulo": "Database System Concepts Vol. 36",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000045",
@@ -598,7 +598,7 @@
     "dataCadastro": "2025-12-02T01:03:20.150417"
   },
   {
-    "id": "8cef86de-782b-440e-b575-a0f62b2ff7b5",
+    "_id": "8cef86de-782b-440e-b575-a0f62b2ff7b5",
     "titulo": "Artificial Intelligence: A Modern Approach Vol. 37",
     "autor": "Stuart Russell",
     "isbn": "9780000000046",
@@ -611,7 +611,7 @@
     "dataCadastro": "2026-03-13T01:03:20.150427"
   },
   {
-    "id": "0d88306a-8721-4305-a073-81f648a6aa75",
+    "_id": "0d88306a-8721-4305-a073-81f648a6aa75",
     "titulo": "Computer Organization and Design Vol. 38",
     "autor": "David Patterson",
     "isbn": "9780000000047",
@@ -624,7 +624,7 @@
     "dataCadastro": "2024-12-30T01:03:20.150438"
   },
   {
-    "id": "e0221b4e-ef1c-4cd0-850b-837c83153b6b",
+    "_id": "e0221b4e-ef1c-4cd0-850b-837c83153b6b",
     "titulo": "The Pragmatic Programmer Vol. 39",
     "autor": "Andrew Hunt",
     "isbn": "9780000000048",
@@ -637,7 +637,7 @@
     "dataCadastro": "2026-05-28T01:03:20.150449"
   },
   {
-    "id": "256fc28a-7980-4492-a51e-4abc398bb209",
+    "_id": "256fc28a-7980-4492-a51e-4abc398bb209",
     "titulo": "Refactoring Vol. 40",
     "autor": "Martin Fowler",
     "isbn": "9780000000049",
@@ -650,7 +650,7 @@
     "dataCadastro": "2024-07-28T01:03:20.150463"
   },
   {
-    "id": "8db9218b-c678-4bb5-b64c-e07e471181fe",
+    "_id": "8db9218b-c678-4bb5-b64c-e07e471181fe",
     "titulo": "Clean Code Vol. 41",
     "autor": "Robert C. Martin",
     "isbn": "9780000000050",
@@ -663,7 +663,7 @@
     "dataCadastro": "2026-01-09T01:03:20.150474"
   },
   {
-    "id": "e4823f14-ba77-4e48-aa9b-c603e40252b5",
+    "_id": "e4823f14-ba77-4e48-aa9b-c603e40252b5",
     "titulo": "Introduction to Algorithms Vol. 42",
     "autor": "Thomas H. Cormen",
     "isbn": "9780000000051",
@@ -676,7 +676,7 @@
     "dataCadastro": "2025-08-03T01:03:20.150486"
   },
   {
-    "id": "047b36e6-191f-4210-a9af-f2448327c921",
+    "_id": "047b36e6-191f-4210-a9af-f2448327c921",
     "titulo": "Design Patterns Vol. 43",
     "autor": "Erich Gamma",
     "isbn": "9780000000052",
@@ -689,7 +689,7 @@
     "dataCadastro": "2026-03-04T01:03:20.150497"
   },
   {
-    "id": "bb7a4d5a-ec7c-4698-a616-d751af20ef35",
+    "_id": "bb7a4d5a-ec7c-4698-a616-d751af20ef35",
     "titulo": "Computer Networks Vol. 44",
     "autor": "Andrew S. Tanenbaum",
     "isbn": "9780000000053",
@@ -702,7 +702,7 @@
     "dataCadastro": "2024-09-30T01:03:20.150508"
   },
   {
-    "id": "8a7bfcba-d4ce-40f3-a2f9-943e33bcb970",
+    "_id": "8a7bfcba-d4ce-40f3-a2f9-943e33bcb970",
     "titulo": "Operating System Concepts Vol. 45",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000054",
@@ -715,7 +715,7 @@
     "dataCadastro": "2026-05-23T01:03:20.150519"
   },
   {
-    "id": "132d1333-7778-4d49-978a-b50b741ea9f4",
+    "_id": "132d1333-7778-4d49-978a-b50b741ea9f4",
     "titulo": "Database System Concepts Vol. 46",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000055",
@@ -728,7 +728,7 @@
     "dataCadastro": "2024-07-15T01:03:20.150530"
   },
   {
-    "id": "0ed91ebb-330c-441d-a7d6-6c3eedf5f91e",
+    "_id": "0ed91ebb-330c-441d-a7d6-6c3eedf5f91e",
     "titulo": "Artificial Intelligence: A Modern Approach Vol. 47",
     "autor": "Stuart Russell",
     "isbn": "9780000000056",
@@ -741,7 +741,7 @@
     "dataCadastro": "2025-08-30T01:03:20.150541"
   },
   {
-    "id": "d6508b5e-e0ad-4289-b86b-344828978229",
+    "_id": "d6508b5e-e0ad-4289-b86b-344828978229",
     "titulo": "Computer Organization and Design Vol. 48",
     "autor": "David Patterson",
     "isbn": "9780000000057",
@@ -754,7 +754,7 @@
     "dataCadastro": "2026-04-09T01:03:20.150552"
   },
   {
-    "id": "1d4459d4-65ea-499a-b45c-a47ad44e9589",
+    "_id": "1d4459d4-65ea-499a-b45c-a47ad44e9589",
     "titulo": "The Pragmatic Programmer Vol. 49",
     "autor": "Andrew Hunt",
     "isbn": "9780000000058",
@@ -767,7 +767,7 @@
     "dataCadastro": "2026-02-02T01:03:20.150564"
   },
   {
-    "id": "bdd3a347-11dd-41e5-83eb-0598bbdc1f5b",
+    "_id": "bdd3a347-11dd-41e5-83eb-0598bbdc1f5b",
     "titulo": "Refactoring Vol. 50",
     "autor": "Martin Fowler",
     "isbn": "9780000000059",
@@ -780,7 +780,7 @@
     "dataCadastro": "2026-05-22T01:03:20.150575"
   },
   {
-    "id": "4ed47f2a-05c1-4417-b700-f46efda2b2c9",
+    "_id": "4ed47f2a-05c1-4417-b700-f46efda2b2c9",
     "titulo": "Clean Code Vol. 51",
     "autor": "Robert C. Martin",
     "isbn": "9780000000060",
@@ -793,7 +793,7 @@
     "dataCadastro": "2025-09-17T01:03:20.150586"
   },
   {
-    "id": "649f3112-f19c-49b1-b6f0-daacf01be747",
+    "_id": "649f3112-f19c-49b1-b6f0-daacf01be747",
     "titulo": "Introduction to Algorithms Vol. 52",
     "autor": "Thomas H. Cormen",
     "isbn": "9780000000061",
@@ -806,7 +806,7 @@
     "dataCadastro": "2025-10-08T01:03:20.150599"
   },
   {
-    "id": "f02b25c0-0450-4baa-9e3d-9e08527e48c3",
+    "_id": "f02b25c0-0450-4baa-9e3d-9e08527e48c3",
     "titulo": "Design Patterns Vol. 53",
     "autor": "Erich Gamma",
     "isbn": "9780000000062",
@@ -819,7 +819,7 @@
     "dataCadastro": "2026-01-21T01:03:20.150610"
   },
   {
-    "id": "34448908-0eca-426d-94fd-fb7f73ac0352",
+    "_id": "34448908-0eca-426d-94fd-fb7f73ac0352",
     "titulo": "Computer Networks Vol. 54",
     "autor": "Andrew S. Tanenbaum",
     "isbn": "9780000000063",
@@ -832,7 +832,7 @@
     "dataCadastro": "2024-12-21T01:03:20.150622"
   },
   {
-    "id": "d5d615c8-c343-4b4c-ad3b-096bd8833d8b",
+    "_id": "d5d615c8-c343-4b4c-ad3b-096bd8833d8b",
     "titulo": "Operating System Concepts Vol. 55",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000064",
@@ -845,7 +845,7 @@
     "dataCadastro": "2025-06-23T01:03:20.150633"
   },
   {
-    "id": "0091c357-f6dc-443f-96bf-a1d001d79109",
+    "_id": "0091c357-f6dc-443f-96bf-a1d001d79109",
     "titulo": "Database System Concepts Vol. 56",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000065",
@@ -858,7 +858,7 @@
     "dataCadastro": "2025-05-09T01:03:20.150644"
   },
   {
-    "id": "df1f8ae9-b341-4099-bf6b-03e3a89eef6a",
+    "_id": "df1f8ae9-b341-4099-bf6b-03e3a89eef6a",
     "titulo": "Artificial Intelligence: A Modern Approach Vol. 57",
     "autor": "Stuart Russell",
     "isbn": "9780000000066",
@@ -871,7 +871,7 @@
     "dataCadastro": "2025-12-29T01:03:20.150655"
   },
   {
-    "id": "100b0773-ae85-41d5-a007-f7eb8ec1e059",
+    "_id": "100b0773-ae85-41d5-a007-f7eb8ec1e059",
     "titulo": "Computer Organization and Design Vol. 58",
     "autor": "David Patterson",
     "isbn": "9780000000067",
@@ -884,7 +884,7 @@
     "dataCadastro": "2025-01-19T01:03:20.150672"
   },
   {
-    "id": "ca2a6212-936b-4cb2-ac86-f15d1c9903b4",
+    "_id": "ca2a6212-936b-4cb2-ac86-f15d1c9903b4",
     "titulo": "The Pragmatic Programmer Vol. 59",
     "autor": "Andrew Hunt",
     "isbn": "9780000000068",
@@ -897,7 +897,7 @@
     "dataCadastro": "2025-02-04T01:03:20.150702"
   },
   {
-    "id": "cc1b9e55-d237-499a-99bb-fd90678b0045",
+    "_id": "cc1b9e55-d237-499a-99bb-fd90678b0045",
     "titulo": "Refactoring Vol. 60",
     "autor": "Martin Fowler",
     "isbn": "9780000000069",
@@ -910,7 +910,7 @@
     "dataCadastro": "2025-12-06T01:03:20.150718"
   },
   {
-    "id": "bc0796d6-9d31-46ad-9624-76000309b9cf",
+    "_id": "bc0796d6-9d31-46ad-9624-76000309b9cf",
     "titulo": "Clean Code Vol. 61",
     "autor": "Robert C. Martin",
     "isbn": "9780000000070",
@@ -923,7 +923,7 @@
     "dataCadastro": "2025-07-18T01:03:20.150733"
   },
   {
-    "id": "cfc90cf4-892a-4ee8-aaa8-43ad88c0a883",
+    "_id": "cfc90cf4-892a-4ee8-aaa8-43ad88c0a883",
     "titulo": "Introduction to Algorithms Vol. 62",
     "autor": "Thomas H. Cormen",
     "isbn": "9780000000071",
@@ -936,7 +936,7 @@
     "dataCadastro": "2024-11-13T01:03:20.150745"
   },
   {
-    "id": "0bebcd4e-a994-49b1-83b4-b4309cb7937c",
+    "_id": "0bebcd4e-a994-49b1-83b4-b4309cb7937c",
     "titulo": "Design Patterns Vol. 63",
     "autor": "Erich Gamma",
     "isbn": "9780000000072",
@@ -949,7 +949,7 @@
     "dataCadastro": "2026-05-27T01:03:20.150756"
   },
   {
-    "id": "8a61cf45-48b6-4cdd-9a6f-46b08bcded25",
+    "_id": "8a61cf45-48b6-4cdd-9a6f-46b08bcded25",
     "titulo": "Computer Networks Vol. 64",
     "autor": "Andrew S. Tanenbaum",
     "isbn": "9780000000073",
@@ -962,7 +962,7 @@
     "dataCadastro": "2024-11-16T01:03:20.150767"
   },
   {
-    "id": "069b66c2-da4a-43e4-ae69-f16c5d6d1e22",
+    "_id": "069b66c2-da4a-43e4-ae69-f16c5d6d1e22",
     "titulo": "Operating System Concepts Vol. 65",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000074",
@@ -975,7 +975,7 @@
     "dataCadastro": "2025-12-26T01:03:20.150779"
   },
   {
-    "id": "3506b058-0d9b-46e5-b809-f2a01535ef34",
+    "_id": "3506b058-0d9b-46e5-b809-f2a01535ef34",
     "titulo": "Database System Concepts Vol. 66",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000075",
@@ -988,7 +988,7 @@
     "dataCadastro": "2025-01-19T01:03:20.150790"
   },
   {
-    "id": "58550aee-6d00-4a2d-8716-086e28297999",
+    "_id": "58550aee-6d00-4a2d-8716-086e28297999",
     "titulo": "Artificial Intelligence: A Modern Approach Vol. 67",
     "autor": "Stuart Russell",
     "isbn": "9780000000076",
@@ -1001,7 +1001,7 @@
     "dataCadastro": "2024-07-31T01:03:20.150802"
   },
   {
-    "id": "4c293da6-bf82-4398-bbc9-ef15acdea7c2",
+    "_id": "4c293da6-bf82-4398-bbc9-ef15acdea7c2",
     "titulo": "Computer Organization and Design Vol. 68",
     "autor": "David Patterson",
     "isbn": "9780000000077",
@@ -1014,7 +1014,7 @@
     "dataCadastro": "2025-10-09T01:03:20.150813"
   },
   {
-    "id": "bdf4fb08-8f86-4509-bced-fbfeee4dc962",
+    "_id": "bdf4fb08-8f86-4509-bced-fbfeee4dc962",
     "titulo": "The Pragmatic Programmer Vol. 69",
     "autor": "Andrew Hunt",
     "isbn": "9780000000078",
@@ -1027,7 +1027,7 @@
     "dataCadastro": "2025-07-31T01:03:20.150830"
   },
   {
-    "id": "5dfe9910-df7c-4f4d-a3ff-66bf303bbe7f",
+    "_id": "5dfe9910-df7c-4f4d-a3ff-66bf303bbe7f",
     "titulo": "Refactoring Vol. 70",
     "autor": "Martin Fowler",
     "isbn": "9780000000079",
@@ -1040,7 +1040,7 @@
     "dataCadastro": "2026-05-10T01:03:20.150840"
   },
   {
-    "id": "260a1c23-4c48-4415-b338-425da9c91e95",
+    "_id": "260a1c23-4c48-4415-b338-425da9c91e95",
     "titulo": "Clean Code Vol. 71",
     "autor": "Robert C. Martin",
     "isbn": "9780000000080",
@@ -1053,7 +1053,7 @@
     "dataCadastro": "2024-11-20T01:03:20.150852"
   },
   {
-    "id": "7880133f-37bf-445e-abf4-7324b27763bb",
+    "_id": "7880133f-37bf-445e-abf4-7324b27763bb",
     "titulo": "Introduction to Algorithms Vol. 72",
     "autor": "Thomas H. Cormen",
     "isbn": "9780000000081",
@@ -1066,7 +1066,7 @@
     "dataCadastro": "2025-01-20T01:03:20.150866"
   },
   {
-    "id": "b1da9bb7-d6f8-4810-b5c8-bd89a50dcf7d",
+    "_id": "b1da9bb7-d6f8-4810-b5c8-bd89a50dcf7d",
     "titulo": "Design Patterns Vol. 73",
     "autor": "Erich Gamma",
     "isbn": "9780000000082",
@@ -1079,7 +1079,7 @@
     "dataCadastro": "2026-02-10T01:03:20.150916"
   },
   {
-    "id": "88934b37-3ca0-4fa2-aa91-1c5601484227",
+    "_id": "88934b37-3ca0-4fa2-aa91-1c5601484227",
     "titulo": "Computer Networks Vol. 74",
     "autor": "Andrew S. Tanenbaum",
     "isbn": "9780000000083",
@@ -1092,7 +1092,7 @@
     "dataCadastro": "2024-10-23T01:03:20.150928"
   },
   {
-    "id": "2b99e266-67b6-4331-b7df-073ab08f3a6b",
+    "_id": "2b99e266-67b6-4331-b7df-073ab08f3a6b",
     "titulo": "Operating System Concepts Vol. 75",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000084",
@@ -1105,7 +1105,7 @@
     "dataCadastro": "2025-11-21T01:03:20.150939"
   },
   {
-    "id": "b5d5dd8c-fe2e-4d4d-8976-ffa0dc3a09aa",
+    "_id": "b5d5dd8c-fe2e-4d4d-8976-ffa0dc3a09aa",
     "titulo": "Database System Concepts Vol. 76",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000085",
@@ -1118,7 +1118,7 @@
     "dataCadastro": "2025-08-30T01:03:20.150949"
   },
   {
-    "id": "9594853a-04c2-465e-bbd3-af58025b8ade",
+    "_id": "9594853a-04c2-465e-bbd3-af58025b8ade",
     "titulo": "Artificial Intelligence: A Modern Approach Vol. 77",
     "autor": "Stuart Russell",
     "isbn": "9780000000086",
@@ -1131,7 +1131,7 @@
     "dataCadastro": "2025-03-17T01:03:20.150959"
   },
   {
-    "id": "f745d832-c324-453e-a17e-476bc746530b",
+    "_id": "f745d832-c324-453e-a17e-476bc746530b",
     "titulo": "Computer Organization and Design Vol. 78",
     "autor": "David Patterson",
     "isbn": "9780000000087",
@@ -1144,7 +1144,7 @@
     "dataCadastro": "2026-03-11T01:03:20.150975"
   },
   {
-    "id": "4a7f7160-8a04-47f5-b100-9bb1c1944f86",
+    "_id": "4a7f7160-8a04-47f5-b100-9bb1c1944f86",
     "titulo": "The Pragmatic Programmer Vol. 79",
     "autor": "Andrew Hunt",
     "isbn": "9780000000088",
@@ -1157,7 +1157,7 @@
     "dataCadastro": "2026-01-27T01:03:20.150986"
   },
   {
-    "id": "283bcd2a-4604-4325-bd34-6d018662278f",
+    "_id": "283bcd2a-4604-4325-bd34-6d018662278f",
     "titulo": "Refactoring Vol. 80",
     "autor": "Martin Fowler",
     "isbn": "9780000000089",
@@ -1170,7 +1170,7 @@
     "dataCadastro": "2024-07-18T01:03:20.150996"
   },
   {
-    "id": "971e3e34-ab9e-48af-9e1e-5a7463b1ba9c",
+    "_id": "971e3e34-ab9e-48af-9e1e-5a7463b1ba9c",
     "titulo": "Clean Code Vol. 81",
     "autor": "Robert C. Martin",
     "isbn": "9780000000090",
@@ -1183,7 +1183,7 @@
     "dataCadastro": "2025-03-11T01:03:20.151008"
   },
   {
-    "id": "9b882e4a-a98f-4efa-9f71-8ac1230376c1",
+    "_id": "9b882e4a-a98f-4efa-9f71-8ac1230376c1",
     "titulo": "Introduction to Algorithms Vol. 82",
     "autor": "Thomas H. Cormen",
     "isbn": "9780000000091",
@@ -1196,7 +1196,7 @@
     "dataCadastro": "2024-07-01T01:03:20.151019"
   },
   {
-    "id": "b28f4ff3-b947-4d86-a414-a79fecea5fa3",
+    "_id": "b28f4ff3-b947-4d86-a414-a79fecea5fa3",
     "titulo": "Design Patterns Vol. 83",
     "autor": "Erich Gamma",
     "isbn": "9780000000092",
@@ -1209,7 +1209,7 @@
     "dataCadastro": "2025-04-02T01:03:20.151030"
   },
   {
-    "id": "11971346-6060-48a1-865d-3668b1b5a132",
+    "_id": "11971346-6060-48a1-865d-3668b1b5a132",
     "titulo": "Computer Networks Vol. 84",
     "autor": "Andrew S. Tanenbaum",
     "isbn": "9780000000093",
@@ -1222,7 +1222,7 @@
     "dataCadastro": "2025-09-06T01:03:20.151051"
   },
   {
-    "id": "a7d93d55-d201-496f-95af-d50c50721dfb",
+    "_id": "a7d93d55-d201-496f-95af-d50c50721dfb",
     "titulo": "Operating System Concepts Vol. 85",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000094",
@@ -1235,7 +1235,7 @@
     "dataCadastro": "2025-04-18T01:03:20.151062"
   },
   {
-    "id": "f103377a-fcbb-4f94-a374-8cff89a132c1",
+    "_id": "f103377a-fcbb-4f94-a374-8cff89a132c1",
     "titulo": "Database System Concepts Vol. 86",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000095",
@@ -1248,7 +1248,7 @@
     "dataCadastro": "2026-02-16T01:03:20.151072"
   },
   {
-    "id": "fb011c75-029b-486e-8442-7eb24079c20d",
+    "_id": "fb011c75-029b-486e-8442-7eb24079c20d",
     "titulo": "Artificial Intelligence: A Modern Approach Vol. 87",
     "autor": "Stuart Russell",
     "isbn": "9780000000096",
@@ -1261,7 +1261,7 @@
     "dataCadastro": "2024-09-11T01:03:20.151083"
   },
   {
-    "id": "05354350-a538-4aaf-8184-3bdae21d6a9e",
+    "_id": "05354350-a538-4aaf-8184-3bdae21d6a9e",
     "titulo": "Computer Organization and Design Vol. 88",
     "autor": "David Patterson",
     "isbn": "9780000000097",
@@ -1274,7 +1274,7 @@
     "dataCadastro": "2024-11-17T01:03:20.151093"
   },
   {
-    "id": "703598da-676e-440e-863c-48419b97a0e0",
+    "_id": "703598da-676e-440e-863c-48419b97a0e0",
     "titulo": "The Pragmatic Programmer Vol. 89",
     "autor": "Andrew Hunt",
     "isbn": "9780000000098",
@@ -1287,7 +1287,7 @@
     "dataCadastro": "2025-08-30T01:03:20.151104"
   },
   {
-    "id": "d1c60e67-8027-4b7a-a831-c90f9fe875a4",
+    "_id": "d1c60e67-8027-4b7a-a831-c90f9fe875a4",
     "titulo": "Refactoring Vol. 90",
     "autor": "Martin Fowler",
     "isbn": "9780000000099",
@@ -1300,7 +1300,7 @@
     "dataCadastro": "2025-02-01T01:03:20.151115"
   },
   {
-    "id": "8efbd504-4eb0-4a3a-9fc8-4144b1207e13",
+    "_id": "8efbd504-4eb0-4a3a-9fc8-4144b1207e13",
     "titulo": "Clean Code Vol. 91",
     "autor": "Robert C. Martin",
     "isbn": "9780000000100",
@@ -1313,7 +1313,7 @@
     "dataCadastro": "2024-10-03T01:03:20.151126"
   },
   {
-    "id": "9ac09f8b-77ba-4db9-be00-9eac168244bb",
+    "_id": "9ac09f8b-77ba-4db9-be00-9eac168244bb",
     "titulo": "Introduction to Algorithms Vol. 92",
     "autor": "Thomas H. Cormen",
     "isbn": "9780000000101",
@@ -1326,7 +1326,7 @@
     "dataCadastro": "2025-09-11T01:03:20.151137"
   },
   {
-    "id": "c5d0d87f-5a0c-4647-ac02-086f22ad8878",
+    "_id": "c5d0d87f-5a0c-4647-ac02-086f22ad8878",
     "titulo": "Design Patterns Vol. 93",
     "autor": "Erich Gamma",
     "isbn": "9780000000102",
@@ -1339,7 +1339,7 @@
     "dataCadastro": "2025-12-30T01:03:20.151147"
   },
   {
-    "id": "39a8b34e-9991-4f5c-8768-dc54f9c81537",
+    "_id": "39a8b34e-9991-4f5c-8768-dc54f9c81537",
     "titulo": "Computer Networks Vol. 94",
     "autor": "Andrew S. Tanenbaum",
     "isbn": "9780000000103",
@@ -1352,7 +1352,7 @@
     "dataCadastro": "2025-09-02T01:03:20.151158"
   },
   {
-    "id": "c044bcc1-748a-4a71-82b4-8e07b7662f90",
+    "_id": "c044bcc1-748a-4a71-82b4-8e07b7662f90",
     "titulo": "Operating System Concepts Vol. 95",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000104",
@@ -1365,7 +1365,7 @@
     "dataCadastro": "2025-02-14T01:03:20.151169"
   },
   {
-    "id": "6df65662-e333-4124-88e9-214f61c310b5",
+    "_id": "6df65662-e333-4124-88e9-214f61c310b5",
     "titulo": "Database System Concepts Vol. 96",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000105",
@@ -1378,7 +1378,7 @@
     "dataCadastro": "2026-02-10T01:03:20.151182"
   },
   {
-    "id": "3810bd9d-ed77-4bc2-a3bd-c0e13e0df79e",
+    "_id": "3810bd9d-ed77-4bc2-a3bd-c0e13e0df79e",
     "titulo": "Artificial Intelligence: A Modern Approach Vol. 97",
     "autor": "Stuart Russell",
     "isbn": "9780000000106",
@@ -1391,7 +1391,7 @@
     "dataCadastro": "2025-03-01T01:03:20.151193"
   },
   {
-    "id": "309e75b2-b286-43e1-bbcd-4ce5310fdb38",
+    "_id": "309e75b2-b286-43e1-bbcd-4ce5310fdb38",
     "titulo": "Computer Organization and Design Vol. 98",
     "autor": "David Patterson",
     "isbn": "9780000000107",
@@ -1404,7 +1404,7 @@
     "dataCadastro": "2025-02-25T01:03:20.151204"
   },
   {
-    "id": "5fc1f96d-6649-4482-8708-cc768a64689d",
+    "_id": "5fc1f96d-6649-4482-8708-cc768a64689d",
     "titulo": "The Pragmatic Programmer Vol. 99",
     "autor": "Andrew Hunt",
     "isbn": "9780000000108",
@@ -1417,7 +1417,7 @@
     "dataCadastro": "2025-05-02T01:03:20.151215"
   },
   {
-    "id": "1297c1b5-d840-4fdf-8132-bdb4f1cec0e0",
+    "_id": "1297c1b5-d840-4fdf-8132-bdb4f1cec0e0",
     "titulo": "Refactoring Vol. 100",
     "autor": "Martin Fowler",
     "isbn": "9780000000109",
@@ -1430,7 +1430,7 @@
     "dataCadastro": "2026-06-03T01:03:20.151226"
   },
   {
-    "id": "5008a1e4-4254-4e9e-aaf6-17155f3c3a87",
+    "_id": "5008a1e4-4254-4e9e-aaf6-17155f3c3a87",
     "titulo": "Clean Code Vol. 101",
     "autor": "Robert C. Martin",
     "isbn": "9780000000110",
@@ -1443,7 +1443,7 @@
     "dataCadastro": "2026-04-13T01:03:20.151236"
   },
   {
-    "id": "44e1a27e-5ac2-4361-902a-ff54859a1e48",
+    "_id": "44e1a27e-5ac2-4361-902a-ff54859a1e48",
     "titulo": "Introduction to Algorithms Vol. 102",
     "autor": "Thomas H. Cormen",
     "isbn": "9780000000111",
@@ -1456,7 +1456,7 @@
     "dataCadastro": "2025-10-17T01:03:20.151247"
   },
   {
-    "id": "f261c5da-2787-49f2-976e-f0f32c0e86b4",
+    "_id": "f261c5da-2787-49f2-976e-f0f32c0e86b4",
     "titulo": "Design Patterns Vol. 103",
     "autor": "Erich Gamma",
     "isbn": "9780000000112",
@@ -1469,7 +1469,7 @@
     "dataCadastro": "2025-03-10T01:03:20.151258"
   },
   {
-    "id": "ec4b9457-7735-4ef6-9466-84f8842b72ab",
+    "_id": "ec4b9457-7735-4ef6-9466-84f8842b72ab",
     "titulo": "Computer Networks Vol. 104",
     "autor": "Andrew S. Tanenbaum",
     "isbn": "9780000000113",
@@ -1482,7 +1482,7 @@
     "dataCadastro": "2025-12-27T01:03:20.151269"
   },
   {
-    "id": "6ac4e982-4ce4-45d3-ae17-e807ad8e2789",
+    "_id": "6ac4e982-4ce4-45d3-ae17-e807ad8e2789",
     "titulo": "Operating System Concepts Vol. 105",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000114",
@@ -1495,7 +1495,7 @@
     "dataCadastro": "2025-03-20T01:03:20.151279"
   },
   {
-    "id": "77ece7a1-b863-45fe-b232-f3d9b73c6380",
+    "_id": "77ece7a1-b863-45fe-b232-f3d9b73c6380",
     "titulo": "Database System Concepts Vol. 106",
     "autor": "Abraham Silberschatz",
     "isbn": "9780000000115",
@@ -1508,7 +1508,7 @@
     "dataCadastro": "2026-05-27T01:03:20.151289"
   },
   {
-    "id": "c95b6b6f-17a4-4c09-989c-6ccfbb3f7e03",
+    "_id": "c95b6b6f-17a4-4c09-989c-6ccfbb3f7e03",
     "titulo": "Artificial Intelligence: A Modern Approach Vol. 107",
     "autor": "Stuart Russell",
     "isbn": "9780000000116",
@@ -1521,7 +1521,7 @@
     "dataCadastro": "2024-11-03T01:03:20.151300"
   },
   {
-    "id": "864ee2ee-3bc6-44c4-a29b-2b6048813b08",
+    "_id": "864ee2ee-3bc6-44c4-a29b-2b6048813b08",
     "titulo": "Computer Organization and Design Vol. 108",
     "autor": "David Patterson",
     "isbn": "9780000000117",
@@ -1534,7 +1534,7 @@
     "dataCadastro": "2026-05-02T01:03:20.151310"
   },
   {
-    "id": "77189768-130d-4d2e-857e-9a7fa1c5e969",
+    "_id": "77189768-130d-4d2e-857e-9a7fa1c5e969",
     "titulo": "The Pragmatic Programmer Vol. 109",
     "autor": "Andrew Hunt",
     "isbn": "9780000000118",
@@ -1547,7 +1547,7 @@
     "dataCadastro": "2026-05-29T01:03:20.151321"
   },
   {
-    "id": "003f672b-ea36-4829-b5ef-35fed93b372c",
+    "_id": "003f672b-ea36-4829-b5ef-35fed93b372c",
     "titulo": "Refactoring Vol. 110",
     "autor": "Martin Fowler",
     "isbn": "9780000000119",

@@ -3,10 +3,9 @@ import { Book } from '../models/Book';
 
 export class BookRepository {
   async findAll(params: GetBooksDto) {
-    const query: { titulo?: { $regex: string; $options: string }; resumo?: { $regex: string; $options: string } } = {};
+    const query: { $text?: { $search?: string } } = {};
 
-    if (params.titulo) query.titulo = { $regex: params.titulo, $options: 'i' };
-    if (params.resumo) query.resumo = { $regex: params.resumo, $options: 'i' };
+    if (params.titulo || params.resumo) query.$text = { $search: params.titulo || params.resumo };
 
     const sortObj: any = {};
     if (params.sortBy) {
@@ -16,7 +15,7 @@ export class BookRepository {
     const skip = (params.page - 1) * params.limit;
 
     const [result, total] = await Promise.all([
-      Book.find(query, { _id: 0, __v: 0 }).sort(sortObj).skip(skip).limit(params.limit),
+      Book.find(query, { __v: 0 }).sort(sortObj).skip(skip).limit(params.limit),
       Book.countDocuments(query),
     ]);
 
@@ -30,6 +29,6 @@ export class BookRepository {
   }
 
   async findById(id: string) {
-    return await Book.findOne({ id }, { _id: 0, __v: 0 });
+    return await Book.findOne({ _id: id }, { __v: 0 });
   }
 }
