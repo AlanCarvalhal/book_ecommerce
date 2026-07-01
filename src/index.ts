@@ -1,15 +1,13 @@
-import express, { Request, Response } from 'express';
+import express from 'express';
 import { connectDB } from './config/database';
+import bookRoutes from './routes/book.routes';
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
 
-// Basic Route
-app.get('/', (req: Request, res: Response) => {
-  res.json({ message: 'Hello World!' });
-});
+app.use('/livros', bookRoutes);
 
 const startServer = async () => {
   await connectDB();
