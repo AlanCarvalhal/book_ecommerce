@@ -1,6 +1,6 @@
-import { BookRepository } from '../repositories/book.repository';
-import { Book } from '../models/Book';
 import { GetBooksDto } from '../dtos/book.dto';
+import { Book } from '../models/Book';
+import { BookRepository } from '../repositories/book.repository';
 
 jest.mock('../models/Book');
 
@@ -52,17 +52,15 @@ describe('BookRepository', () => {
 
       expect(Book.find).toHaveBeenCalledWith(
         {
-          titulo: { $regex: 'clean', $options: 'i' },
-          resumo: { $regex: 'software', $options: 'i' },
+          $text: { $search: 'clean' },
         },
-        { _id: 0, __v: 0 }
+        { __v: 0 },
       );
       expect(mockFindQuery.sort).toHaveBeenCalledWith({ preco: 'desc' });
       expect(mockFindQuery.skip).toHaveBeenCalledWith(5); // (2 - 1) * 5
       expect(mockFindQuery.limit).toHaveBeenCalledWith(5);
       expect(Book.countDocuments).toHaveBeenCalledWith({
-        titulo: { $regex: 'clean', $options: 'i' },
-        resumo: { $regex: 'software', $options: 'i' },
+        $text: { $search: 'clean' },
       });
     });
 
@@ -85,6 +83,7 @@ describe('BookRepository', () => {
 
       await bookRepository.findAll(params);
 
+      expect(Book.find).toHaveBeenCalledWith({}, { __v: 0 });
       expect(mockFindQuery.sort).toHaveBeenCalledWith({ titulo: 'asc' });
     });
   });
@@ -101,7 +100,7 @@ describe('BookRepository', () => {
       const result = await bookRepository.findById('uuid-1');
 
       expect(result).toEqual(mockBook);
-      expect(Book.findOne).toHaveBeenCalledWith({ id: 'uuid-1' }, { _id: 0, __v: 0 });
+      expect(Book.findOne).toHaveBeenCalledWith({ _id: 'uuid-1' }, { __v: 0 });
     });
 
     it('should return null if not found', async () => {
@@ -110,7 +109,7 @@ describe('BookRepository', () => {
       const result = await bookRepository.findById('non-existent');
 
       expect(result).toBeNull();
-      expect(Book.findOne).toHaveBeenCalledWith({ id: 'non-existent' }, { _id: 0, __v: 0 });
+      expect(Book.findOne).toHaveBeenCalledWith({ _id: 'non-existent' }, { __v: 0 });
     });
   });
 });
