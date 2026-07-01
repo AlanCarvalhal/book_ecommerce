@@ -1,4 +1,5 @@
 import { Request, Response } from 'express';
+import { GetBooksDto } from '../dtos/book.dto';
 import { BookRepository } from '../repositories/book.repository';
 
 const bookRepository = new BookRepository();
@@ -6,7 +7,8 @@ const bookRepository = new BookRepository();
 export class BookController {
   async getBooks(req: Request, res: Response) {
     try {
-      const result = await bookRepository.findAll();
+      const params = req.query as unknown as GetBooksDto;
+      const result = await bookRepository.findAll(params);
       res.status(200).json(result);
     } catch (error: unknown) {
       console.error('Erro ao procurar livros:', error);

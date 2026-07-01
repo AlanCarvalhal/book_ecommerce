@@ -1,3 +1,5 @@
+import 'reflect-metadata';
+
 import express from 'express';
 import { connectDB } from './config/database';
 import bookRoutes from './routes/book.routes';
