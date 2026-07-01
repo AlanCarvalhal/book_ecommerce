@@ -3,6 +3,7 @@ import 'reflect-metadata';
 import express from 'express';
 import { connectDB } from './config/database';
 import bookRoutes from './routes/book.routes';
+import healthRoutes from './routes/health.route';
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -10,6 +11,7 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 
 app.use('/livros', bookRoutes);
+app.use('/health', healthRoutes);
 
 const startServer = async () => {
   await connectDB();
